@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-https://i.pinimg.com/736x/4e/a5/22/4ea5228b3844c699a80b6e9891b179b3.jpg
 
 <!--
 **AldiAgeng/AldiAgeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
