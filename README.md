@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-![Hi](https://obs.line-scdn.net/0hfsqkAKd1OVxMEi7lGNBGC3RENS1_dCNVbiBwPm9HZm4zPngMeCBqP2waZ3AydSwKbCEhPWwaYmthJikKdA/w644)
+<div align="center">
+<img src="https://obs.line-scdn.net/0hfsqkAKd1OVxMEi7lGNBGC3RENS1_dCNVbiBwPm9HZm4zPngMeCBqP2waZ3AydSwKbCEhPWwaYmthJikKdA/w644" />
+</p>
+
+<br/>
+
+<p align="center"><h3>🙂</h3></p> 
+
 
 <!--
 **AldiAgeng/AldiAgeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
