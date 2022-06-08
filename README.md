@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://obs.line-scdn.net/0hfsqkAKd1OVxMEi7lGNBGC3RENS1_dCNVbiBwPm9HZm4zPngMeCBqP2waZ3AydSwKbCEhPWwaYmthJikKdA/w644" />
+<img width="400px" src="https://obs.line-scdn.net/0hfsqkAKd1OVxMEi7lGNBGC3RENS1_dCNVbiBwPm9HZm4zPngMeCBqP2waZ3AydSwKbCEhPWwaYmthJikKdA/w644" />
 </p>
 
 <br/>
